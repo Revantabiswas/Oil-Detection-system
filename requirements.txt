@@ -12,3 +12,5 @@ folium
 requests 
 twilio 
 jupyterlab
+opencv-python 
+h5py
